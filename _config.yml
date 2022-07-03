@@ -25,8 +25,8 @@ version: 1.0.0
 # About/contact
 author:
   name: Rokgi
-  description: 그냥 학생이에요.
-  gravatar: 3c2986ad7ac1f2230ea3596f44563328 # md5 hash of your email address
+  description: College of Agriculture and Life Sciences. Seoul National University
+  gravatar: '/public/img/profileimage.jpeg' # md5 hash of your email address
   contact:
     #linkedin:  https://www.linkedin.com/in/lizhihao
     github:    https://github.com/log2hong
