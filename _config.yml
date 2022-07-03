@@ -26,7 +26,6 @@ version: 1.0.0
 author:
   name: Rokgi
   description: College of Agriculture and Life Sciences. Seoul National University
-  gravatar: '/public/img/profileimage.jpeg' # md5 hash of your email address
   contact:
     #linkedin:  https://www.linkedin.com/in/lizhihao
     github:    https://github.com/log2hong
